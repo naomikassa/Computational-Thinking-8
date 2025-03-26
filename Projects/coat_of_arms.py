@@ -23,4 +23,4 @@ s4 = codesters.Sprite("goldendoodle (1)", -100, 100)
 s4.set_size(0.4)
 
 message1 = codesters.Text("Naomi Kassa",0, 220, "purple" )
-message2 = codesters.Text("Knock Knock, whos there?",0, -220, "DarkSlateBlue")
+message2 = codesters.Text("God 1st",0, -220, "DarkSlateBlue")
